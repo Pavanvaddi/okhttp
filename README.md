@@ -6,7 +6,7 @@ An HTTP & HTTP/2 client for Android and Java applications. For more information 
 Download
 --------
 
-Download [the latest JAR][3] or grab via Maven:
+Download [the latest JAR][3] or grab via mavqnufhui
 ```xml
 <dependency>
   <groupId>com.squareup.okhttp3</groupId>
